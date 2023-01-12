@@ -18,7 +18,7 @@ http://117.169.124.149:8080/live/HD-8000k-1080P-cctv7/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-id="9" tvg-name="CCTV8" group-title="央视",CCTV-8电视剧
 http://117.169.124.149:8080/live/HD-8000k-1080P-cctv8/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-id="10" tvg-name="CCTV9" group-title="央视",CCTV-9纪录
-http://117.169.124.149:8080/live/HD-8000k-1080P-cctv10/index.m3u8
+http://117.169.124.149:8080/live/HD-8000k-1080P-cctv9/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-id="11" tvg-name="CCTV10" group-title="央视",CCTV-10科教
 http://117.169.124.149:8080/live/HD-8000k-1080P-cctv10/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-id="12" tvg-name="CCTV11" group-title="央视",CCTV-11戏曲
